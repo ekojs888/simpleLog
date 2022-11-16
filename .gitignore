@@ -1,5 +1,6 @@
 .pio
 lib
+.vscode
 include
 test
 platformio.ini
