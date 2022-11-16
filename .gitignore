@@ -1,0 +1,5 @@
+.pio
+lib
+include
+test
+platformio.ini
