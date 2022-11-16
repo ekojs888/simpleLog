@@ -1,5 +1,7 @@
 #include <Arduino.h>
-#include "log.h"
+#include "simpleLog.h"
+
+#define LOG_EN
 
 void setup()
 {
